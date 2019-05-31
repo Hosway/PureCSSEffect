@@ -207,7 +207,7 @@ section {
 
 
 
-@media only screen and (max-width: 411px) {
+@media only screen and (max-width: 800px) {
   .bannerText h2 {
     font-size: 1.7rem;
   }
